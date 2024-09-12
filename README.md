@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  📖  Engineering student @ Oulu University of Applied Sciences (Software development)
+-  📖  Software Engineering Student @ Oulu UAS
 -  🤔  I'm currently learning how to make games
